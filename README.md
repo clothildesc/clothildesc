@@ -1,4 +1,4 @@
-👋 Hello! I'm Clothilde, a passionate and driven web developer specializing in Ruby on Rails. After building a solid foundation in marketing, I transitioned into web development through a rigorous bootcamp at Le Wagon. Now, I channel my creativity and skills into crafting web applications.
+👋 Hello! I'm Clothilde, a passionate web developer specializing in Ruby on Rails. After building a solid foundation in marketing, I transitioned into web development through a rigorous bootcamp at Le Wagon. Now, I channel my creativity and skills into crafting web applications.
 
 ## 🌟 Tech Skills
 
