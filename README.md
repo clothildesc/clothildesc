@@ -3,8 +3,7 @@
 Before 42, I transitioned into web development after a career in marketing and a full-time bootcamp at Le Wagon. I built several web applications using Ruby on Rails and loved bringing ideas to life through code.
 
 ## 🧠 What I’m Learning at 42
-- C programming and memory management
-- Shell and scripting
+- C programming & Shell
 - Git and teamwork best practices
 - Algorithms and problem solving
  
@@ -14,15 +13,6 @@ Before 42, I transitioned into web development after a career in marketing and a
 - **Frameworks & Libraries:** Ruby on Rails, Stimulus, Bootstrap
 - **Databases:** SQL, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Heroku, Figma
-
-## 🚀 Cool Projects (On Hold for Now)
-While I focus on my 42 curriculum (expected to finish in 2026), my web projects are temporarily on pause — but I’m excited to return to them with new skills and fresh perspectives.
-
-### [TasteUp](https://github.com/clothildesc/tasteup)
-A collaborative web app for managing cooking recipes. Built with Ruby on Rails, TasteUp lets users save and share their favorite recipes. We're currently working on adding data scrapers to automate recipe collection from popular sites.
-
-### [Food Next Door](https://github.com/Jupiterjazz15/food-next-door)
-Helping an entrepreneur develop a web app for sharing food, items, and services among neighbors. This project is in the early stages of development and aims to strengthen community bonds while reducing waste.
 
 ## 🎉 Fun Stuff About Me
 
