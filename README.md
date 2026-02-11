@@ -3,7 +3,7 @@
 Before 42, I transitioned into web development after a career in marketing and a full-time bootcamp at Le Wagon. I built several web applications using Ruby on Rails and loved bringing ideas to life through code.
 
 ## 🧠 What I’m Learning at 42
-- C programming & Shell
+- C and C++ programming & Shell
 - Git and teamwork best practices
 - Algorithms and problem solving
  
