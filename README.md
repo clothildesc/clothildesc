@@ -3,7 +3,6 @@
 **Software Developer | École 42 Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clothilde-scache)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clothildesc)
 
 ---
 
@@ -37,7 +36,6 @@ Previously transitioned from marketing to web development via Le Wagon bootcamp,
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
@@ -45,11 +43,9 @@ Previously transitioned from marketing to web development via Le Wagon bootcamp,
 
 ## Current Focus
 
-```text
-📚 Deepening knowledge in C/C++ and algorithms at École 42
-🔧 Building collaborative projects through peer-learning
-💡 Exploring systems programming and performance optimization
-```
+-  Deepening knowledge in C/C++ and algorithms at École 42
+-  Building collaborative projects through peer-learning
+-  Exploring systems programming and performance optimization
 
 ---
 
