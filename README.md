@@ -8,7 +8,7 @@
 
 ## About Me
 
-Developer currently studying at [École 42](https://42.fr) since April 2025, focusing on low-level programming (C/C++), algorithms, and shell scripting through a peer-to-peer, project-based curriculum.
+Currently studying at [École 42](https://42.fr) since April 2025, focusing on low-level programming (C/C++), algorithms, and shell scripting through a peer-to-peer, project-based curriculum.
 
 Previously transitioned from marketing to web development via Le Wagon bootcamp, building full-stack applications with Ruby on Rails. Now expanding expertise toward systems programming and performance-oriented languages.
 
