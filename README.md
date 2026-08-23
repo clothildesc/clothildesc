@@ -2,8 +2,6 @@
 
 **Software Developer | École 42 Student**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clothilde-scache)
-
 ---
 
 ## About Me
@@ -55,17 +53,3 @@ When I'm not coding, you can find me:
 - **Running:** I'm a marathon and trail running enthusiast.
 - **Cooking:** I love experimenting with new recipes.
 - **Drinking Herbal Teas:** I'm a big fan and drink a significant amount every day.
-
----
-
-## Get in Touch
-
-Feel free to reach out to discuss projects, collaborations, or job opportunities.
-
-**[LinkedIn](https://linkedin.com/in/clothilde-scache)** | **[GitHub](https://github.com/clothildesc)**
-
----
-
-<div align="center">
-  <i>Open to opportunities | Available for freelance projects</i>
-</div>
